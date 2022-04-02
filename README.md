@@ -1,4 +1,4 @@
-# Setting up a geospatialanalysis and development environment on Windows
+# Setting up a geospatial / data analysis / development environment on Windows
  
 ## 0) Enable dark mode
 
